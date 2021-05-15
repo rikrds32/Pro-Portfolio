@@ -59,3 +59,16 @@ img {
 #first-image {
     width: 600px;
 }
+body {
+    width: auto;
+}
+@media screen and (max-width: 768px){
+    img{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    #first-image {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
