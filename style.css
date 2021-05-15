@@ -53,4 +53,9 @@ img {
     width: 400px;
     display:inline-block
 }
-
+.top-left {
+    font-weight: bold;
+}
+#first-image {
+    width: 600px;
+}
