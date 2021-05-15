@@ -49,4 +49,8 @@ p {
     display: inline-block
 
 }
+img {
+    width: 400px;
+    display:inline-block
+}
 
