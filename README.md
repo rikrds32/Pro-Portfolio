@@ -22,6 +22,9 @@ Here is the link to the live website:
 
 https://rikrds32.github.io/Pro-Portfolio/
 
+LinkedIn https://www.linkedin.com/in/ricardo-salazar-a7b245210
+
+
 ## Contact Information
 
 Email: rikrds32@gmail.com
